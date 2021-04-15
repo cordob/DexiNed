@@ -43,6 +43,10 @@ Once the packages are installed,  clone this repo as follow:
 
     pip install kornia
     
+    
+    
+    
+    python main.py --choose_test_data=-1 
 ## Project Architecture
 
 ```
