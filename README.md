@@ -41,6 +41,8 @@ Once the packages are installed,  clone this repo as follow:
     git clone https://github.com/xavysp/DexiNed.git
     cd DexiNed
 
+    pip install kornia
+    
 ## Project Architecture
 
 ```
